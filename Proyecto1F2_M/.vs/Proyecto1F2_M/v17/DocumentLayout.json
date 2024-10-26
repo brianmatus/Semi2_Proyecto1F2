@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matus\\Documents\\USAC\\Semi2\\Lab\\Proyecto1F2\\Proyecto1F2_M\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{883A1F3D-EEAF-4BF0-80F3-02C17F43861A}|Proyecto1F2_M.dwproj|C:\\Users\\Matus\\Documents\\USAC\\Semi2\\Lab\\Proyecto1F2\\Proyecto1F2_M\\Venta.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{883A1F3D-EEAF-4BF0-80F3-02C17F43861A}|Proyecto1F2_M.dwproj|solutionrelative:Venta.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883A1F3D-EEAF-4BF0-80F3-02C17F43861A}|Proyecto1F2_M.dwproj|C:\\Users\\Matus\\Documents\\USAC\\Semi2\\Lab\\Proyecto1F2\\Proyecto1F2_M\\Compra 1.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{883A1F3D-EEAF-4BF0-80F3-02C17F43861A}|Proyecto1F2_M.dwproj|solutionrelative:Compra 1.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883A1F3D-EEAF-4BF0-80F3-02C17F43861A}|Proyecto1F2_M.dwproj|C:\\Users\\Matus\\Documents\\USAC\\Semi2\\Lab\\Proyecto1F2\\Proyecto1F2_M\\DW View.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{883A1F3D-EEAF-4BF0-80F3-02C17F43861A}|Proyecto1F2_M.dwproj|solutionrelative:DW View.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Venta.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\Matus\\Documents\\USAC\\Semi2\\Lab\\Proyecto1F2\\Proyecto1F2_M\\Venta.cube",
+              "RelativeDocumentMoniker": "Venta.cube",
+              "ToolTip": "C:\\Users\\Matus\\Documents\\USAC\\Semi2\\Lab\\Proyecto1F2\\Proyecto1F2_M\\Venta.cube [Design]",
+              "RelativeToolTip": "Venta.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-26T04:32:08.319Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DW View.dsv [Design]",
+              "DocumentMoniker": "C:\\Users\\Matus\\Documents\\USAC\\Semi2\\Lab\\Proyecto1F2\\Proyecto1F2_M\\DW View.dsv",
+              "RelativeDocumentMoniker": "DW View.dsv",
+              "ToolTip": "C:\\Users\\Matus\\Documents\\USAC\\Semi2\\Lab\\Proyecto1F2\\Proyecto1F2_M\\DW View.dsv [Design]*",
+              "RelativeToolTip": "DW View.dsv [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-26T04:28:53.789Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Compra 1.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\Matus\\Documents\\USAC\\Semi2\\Lab\\Proyecto1F2\\Proyecto1F2_M\\Compra 1.cube",
+              "RelativeDocumentMoniker": "Compra 1.cube",
+              "ToolTip": "C:\\Users\\Matus\\Documents\\USAC\\Semi2\\Lab\\Proyecto1F2\\Proyecto1F2_M\\Compra 1.cube [Design]",
+              "RelativeToolTip": "Compra 1.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-26T03:10:46.588Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
